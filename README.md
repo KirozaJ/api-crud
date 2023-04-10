@@ -48,14 +48,11 @@ $ npm run start:prod
 ## Test
 
 ```bash
-# unit tests
+# Right now I've only implemented unit testing
+# feel free to comment any errors :)
+
+# Unit Test
 $ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
 ```
 
 ## Support
