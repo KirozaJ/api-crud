@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Welcome to my API CRUD application built on NestJS, a powerful Node.js framework. This application uses RESTful architecture to handle basic Create, Read, Update, and Delete operations on data. It's designed to be easy to use and highly customizable, with a modular architecture that makes it easy to add new features and endpoints. Whether you're building a simple web app or a complex enterprise system, this API is a great starting point. So go ahead, clone the repo and start building your next big thing!
 
 ## Installation
 
@@ -64,9 +64,9 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - [Kiroza] (https://github.com/KirozaJ)
+- Website - [TBD]()
+- Twitter - [@ImNotUrda](https://twitter.com/ImNotUrda)
 
 ## License
 
