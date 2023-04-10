@@ -13,7 +13,7 @@
 
 ## Description
 
-Welcome to my API CRUD application built on NestJS, a powerful Node.js framework. This application uses RESTful architecture to handle basic Create, Read, Update, and Delete operations on data. It's designed to be easy to use and highly customizable, with a modular architecture that makes it easy to add new features and endpoints. Whether you're building a simple web app or a complex enterprise system, this API is a great starting point. So go ahead, clone the repo and start building your next big thing!
+Welcome to my API CRUD application built on NestJS, a powerful Node.js framework. This application uses RESTful architecture to handle basic Create, Read, Update, and Delete operations on data. It's designed to be easy to use and highly customizable, with a modular architecture that makes it easy to add new features and endpoints. Whether you're building a simple web app or a complex enterprise system, this API is a great starting point, the project is Dockerized and uses Postgres database. So go ahead, clone the repo and start building your next big thing!
 
 ## Installation
 
